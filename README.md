@@ -4,7 +4,7 @@ Este projeto apresenta um dashboard interativo e visualmente estilizado com foco
 
 ## 📁 Arquivo
 
-O arquivo [`dashboard_estilo_final.xlsx`](dashboard_estilo_final.xlsx) contém:
+O arquivo [`dashboard_estilo_final.xlsx`](dashboard_final.xlsx) contém:
 
 - **Aba de dados**: informações brutas de assinantes, planos, valores e add-ons
 - **Aba `Dashboard`**: painel resumido com:
